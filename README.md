@@ -31,4 +31,6 @@ Go into src folder, there is a file named main.js, that file gest 3 inputs.
 2. The minimum number of the range that are going to be into the array
 3. The maximum number of the range that are going to be into the array
 
+run `node main.js 1 2 3` (one, two and three are related with the input) for example `node main.js 1000000 -10000 10000`.
+
 
