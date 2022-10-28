@@ -1,4 +1,4 @@
-# Mech Eight
+# Mach Eight
 
 ## Set up
 
